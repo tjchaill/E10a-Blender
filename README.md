@@ -1,3 +1,9 @@
+I had fun with thise one!
+
+
+
+
+
 # E10a-Blender
 This exercise will give you an opportunity to get some experience using Blender (in advance of the requirements for Project 09).
 
